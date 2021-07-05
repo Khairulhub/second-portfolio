@@ -8,6 +8,10 @@ body{
     
     width: 100%;
 } */
+.back-bg{
+    background: url(./images/top-banner.png);
+    background-repeat: no-repeat;
+}
 .header{
  display: flex;
  justify-content: center;
@@ -61,4 +65,10 @@ width: 100%;
 .bdad:hover{
    
 transform: scale(1.07);
+}
+.portfolio h1{
+    padding-left: 10%;
+}
+footer p{
+    text-align: center;
 }
